@@ -1,5 +1,10 @@
+body{
+  margin: 5px;
+}
+
 .search{
   text-align: center;
+  margin-top: 10%;
 }
 
 .links{
@@ -14,4 +19,9 @@ input{
 
 #text{
   width:400px;
+}
+
+img{
+  height: 40%;
+  width: 40%;
 }
