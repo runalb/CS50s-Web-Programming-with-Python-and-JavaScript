@@ -1,3 +1,17 @@
 .search{
   text-align: center;
 }
+
+.links{
+  text-align: right;
+}
+
+input{
+  border-radius: 25px;
+  border: 1px solid grey;
+  margin-top: 5px;
+}
+
+#text{
+  width:400px;
+}
